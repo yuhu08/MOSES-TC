@@ -90,3 +90,9 @@ python -m unittest discover -s tests -v
 ```
 
 Please cite the manuscript above when using this implementation. Data and synthetic model attribution are listed in the data notes.
+
+## License
+
+The MOSES-TC code is available under the [MIT License](LICENSE). Files in
+`data/` retain their respective source terms. See the [data notes](data/README.md)
+for provenance and attribution.

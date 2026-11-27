@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use MOSES-TC, please cite this release and the accompanying paper."
+title: "MOSES-TC: Marginal-Optimized Spatial Events Sampling"
+type: software
+version: "1.0.0"
+authors:
+  - given-names: Yu
+    family-names: Hu
+  - given-names: Dazhi
+    family-names: Xi
+  - given-names: Yurong
+    family-names: Gao
+  - given-names: Peiyan
+    family-names: Chen
+repository-code: "https://github.com/yuhu08/MOSES-TC"
+license: MIT
+abstract: >-
+  MOSES-TC selects a subset of synthetic tropical cyclone tracks to match
+  target marginal distributions at multiple grid points. This release includes
+  the Python implementation and a historical western North Pacific example
+  with prepared IBTrACS and ACCESS-CM2 tracks for 1979–2014. The MIT License
+  applies to the code. Bundled data retain their respective source terms and
+  attribution, as described in data/README.md.
